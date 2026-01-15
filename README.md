@@ -1,1 +1,9 @@
-# JOSN_Pipline_demo
+# JOSN_Pipeline_demo
+
+Author: Xindi Li
+
+The following demo program demonstrates the process to import json file in MongodB
+
+# Running instruction
+
+python main.py ingest --jsonl sample_articles.jsonl --drop
